@@ -1,0 +1,28 @@
+img{
+    width: 120px;
+    height: 100px;
+}
+
+.maindiv{
+    display: flex;
+    width: 70%;
+    height: 250px;
+}
+
+.subdiv1{
+    width:200px;
+}
+
+.subdiv2{
+    width:250px;
+    margin-left: 20px;
+}
+
+.subdiv3{
+    width:230px;
+    margin-left: 20px;
+}
+
+h1{
+    font-weight: bolder;
+}
